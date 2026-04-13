@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:your@gmail.com">
+  <a href="mailto:thinh367800@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/dev-thinh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dev-thinh&style=flat-square&color=58a6ff&label=profile+views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=dev-thinh&style=flat-square&color=58a6ff&label=profile+views" /> -->
 </p>
 
 ---
