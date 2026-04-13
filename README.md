@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Duc+Thinh+%F0%9F%91%8B;Fullstack+Developer;Computer+Science+%40+HCMUS;Always+learning%2C+always+building." alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%C4%90%E1%BB%A9c%20Th%E1%BB%8Bnh%20Nguy%E1%BB%85n+%F0%9F%91%8B;Fullstack+Developer;Building+things+for+the+web." alt="Typing SVG" />
+
 </h1>
 
 <p align="center">
@@ -69,19 +71,6 @@ Currently seeking **internship developer opportunities**.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-thinh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-thinh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-thinh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
 
 ---
 
