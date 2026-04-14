@@ -18,7 +18,7 @@
 
 ### About me
 
-I'm a 3rd-year Computer Science student at **University of Science, VNU-HCM** 🎓  
+I'm a 3rd-year Information of Technology student at **University of Science, VNU-HCM** 🎓  
 Passionate about building full-featured web applications from UI to infrastructure.  
 Currently seeking **internship developer opportunities**.
 
