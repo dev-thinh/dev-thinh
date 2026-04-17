@@ -11,7 +11,9 @@
   <a href="https://github.com/dev-thinh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <!-- <img src="https://komarev.com/ghpvc/?username=dev-thinh&style=flat-square&color=58a6ff&label=profile+views" /> -->
+  <a href="https://www.linkedin.com/in/nguyen-dang-duc-thinh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
